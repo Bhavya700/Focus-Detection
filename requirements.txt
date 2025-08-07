@@ -1,0 +1,8 @@
+numpy
+opencv-python
+scikit-learn
+pyscreenrec
+pytesseract
+Pillow
+macos-notifications
+imutils
