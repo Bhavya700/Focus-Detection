@@ -1,4 +1,4 @@
-# Focus-Detection
+# Focus-Detection-System
 A real-time system to monitor user focus during work or study sessions using your device's camera. Inspired by driver drowsiness detection systems, FocusGuard identifies whether a user is focused, distracted, procrastinating, or has fallen asleep, providing a foundation for building smart productivity tools.
 
 ## Overview
